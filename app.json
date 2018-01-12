@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "IKAG",
+    "description": "An full new project",
+    "slug": "I Know A Guy",
+    "privacy": "public",
+    "sdkVersion": "23.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./Screens/Icons/IKnowAGuy.png",
+    "barStyle": "light-content",
+    "splash": {
+      "image": "./Screens/Icons/IKnowAGuy.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

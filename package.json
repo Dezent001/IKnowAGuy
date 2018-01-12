@@ -1,0 +1,19 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "apollo-client": "^2.0.4",
+    "axios": "^0.17.1",
+    "expo": "^23.0.0",
+    "graphql-tag": "^2.6.0",
+    "moment": "^2.19.4",
+    "react": "16.0.0",
+    "react-apollo": "^2.0.4",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz",
+    "react-native-speech-to-text-ios": "^1.0.4",
+    "react-native-stt": "0.0.2",
+    "react-native-vector-icons": "^4.5.0",
+    "react-native-voice": "^0.2.5",
+    "react-navigation": "^1.0.0-beta.21"
+  }
+}
